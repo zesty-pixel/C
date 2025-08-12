@@ -58,3 +58,41 @@ Enter first number: 5
 Enter second number: 4
 Sum = 9
 ```
+
+# 3. To find the Area of a Rectangle
+
+## Steps
+
+1. Start
+2. Input the length as l
+3. Input the breadth as b
+4. Set area=l*b
+5. Print area
+6. End
+
+## Code
+```c
+#include <stdio.h>
+#include <conio.h>
+
+int main(){
+  int l, b, area=0;
+  clrscr();
+  printf("Enter the length: ");
+  scanf("%d", &l);
+  printf("Enter the breath: ");
+  scanf("%d", &b);
+
+  area = l * b;
+
+  printf("Area = %d", area);
+  getch();
+}
+```
+
+## Output
+```bash
+Enter the length: 5
+Enter the breadth: 3
+Area = 15
+```
