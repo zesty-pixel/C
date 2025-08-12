@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main() {
+void main() {
   clrscr();
   printf("Welcome to the world of C programming");
   getch();
