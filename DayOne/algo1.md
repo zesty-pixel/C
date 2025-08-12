@@ -1,4 +1,4 @@
-1. To print the message "Welcome to the world of C programming"
+# 1. To print the message "Welcome to the world of C programming"
 
 ## Steps
 1. Start
@@ -22,7 +22,7 @@ void main() {
 Welcome to the world of C programming
 ```
 
-2. To find the sum of two numbers.
+# 2. To find the sum of two numbers.
 
 ## Steps
 1. Start
